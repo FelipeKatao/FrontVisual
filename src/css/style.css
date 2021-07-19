@@ -1,0 +1,59 @@
+#content{
+    height: auto;
+    width: 100%;
+    
+    top:0;
+    left: 0;
+    position: absolute;
+}
+#banner{
+    height: 40vh;
+    width: 100%;
+    background-color: #252525;
+    align-items: center;
+    margin-top: -4vh;
+}
+.banner-title{
+    position: absolute;
+    color: #FFFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 6vh;
+    margin-top: 10vh;
+    margin-left: 80vh;
+}
+.banner-sub-title{
+    position: absolute;
+    color: #FFFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3vh;
+    margin-top: 16vh;
+    margin-left: 78vh;
+}
+#banner ul {
+    position: absolute;
+    color: #FFFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3vh;
+    margin-top: 24vh;
+    margin-left: 60vh;
+}
+#banner ul li{
+    float: left;
+    list-style: none;
+    padding-left: 2vh;
+}
+#avatar{
+    position: absolute;
+    height: 30vh;
+    width: 30vh;
+    background-color: blue;
+    border-radius: 16vh;
+    border: 0.8vh solid white;
+    margin-left: 80vh;
+    margin-top: -8vh;
+}
+#avatar img{
+    height: 30vh;
+    width: 30vh;
+    border-radius: 16vh;
+}
